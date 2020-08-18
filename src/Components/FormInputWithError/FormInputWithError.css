@@ -1,0 +1,59 @@
+.FormIWE{
+    /* Form input with error */
+    position: absolute;
+    width: 334px;
+    height: 107px;
+    left: 59px;
+    top: 230px;
+}
+
+.Email{
+    /* Email* */
+    position: absolute;
+    left: 0%;
+    right: 60.48%;
+    top: 0%;
+    bottom: 79.44%;
+
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+
+    color: #000000;
+}
+
+.Reactangle-6{
+    /* Rectangle 6 */
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 31.78%;
+    bottom: 23.36%;
+    width: 334px;
+
+    background: #FFFFFF;
+    border: 1px solid #BCBCBC;
+    box-sizing: border-box;
+    border-radius: 5px;
+
+    font-size: 20px;
+}
+
+.EmailCantBeEmpty{
+    /* Email can not be empty */
+    position: absolute;
+    left: 0%;
+    right: 44.91%;
+    top: 87.85%;
+    bottom: 0%;
+
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #D62C2C;
+}

@@ -1,0 +1,73 @@
+.LoginScreen{
+    /* Login screen */
+    position: relative;
+    width: 1440px;
+    height: 900px;
+
+    background: #FFFFFF;
+}
+
+.Login{
+    /* Login */
+
+    position: absolute;
+    width: 195px;
+    height: 61px;
+    left: 200px;
+    top: 235px;
+
+    /* Header 1 */
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 60px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.FormInputWithError{
+    /* Form input with error */
+    position: absolute;
+    width: 334px;
+    height: 107px;
+    left: 200px;
+    top: 344px;
+}
+
+.Form{
+    /* Form */
+    position: absolute;
+    width: 334px;
+    height: 431px;
+    left: 200px;
+    top: 235px;
+}
+
+.FormInput{
+    /* Form input */
+    position: absolute;
+    width: 334px;
+    height: 82px;
+    left: 200px;
+    top: 487px;
+}
+
+.MainButton{
+    /* Button */
+    position: absolute;
+    width: 333px;
+    height: 48px;
+    left: 200px;
+    top: 618px;
+}
+
+.projectorImg{
+    /* undraw_videographer_nnc7 1 */
+    position: absolute;
+    width: 674px;
+    height: 736px;
+    left: 735px;
+    top: 130px
+}

@@ -1,0 +1,40 @@
+.ButtonSecondary{
+    /* Button secondary */
+    position: absolute;
+    width: 179px;
+    height: 48px;
+    left: 491px;
+    top: 389px;
+}
+
+.Reactangle{
+    /* Rectangle 8 */
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    background: #FFFFFF;
+    border: 1px solid #BCBCBC;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.Cancel{
+    /* Cancel */
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 27.08%;
+    bottom: 27.08%;
+
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #040404;
+}

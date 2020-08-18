@@ -1,0 +1,63 @@
+.EmptyScreen{
+    /* Empty screen */
+    position: relative;
+    width: 1440px;
+    height: 900px;
+
+    background: #FFFFFF;
+}
+
+.ListEmpty{
+    /* Your movie list is empty */
+    position: absolute;
+    width: 579px;
+    height: 58px;
+    left: 431px;
+    top: 367px;
+
+    /* Header 1 */
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.MovieEmptyButton{
+    /* Button */
+    position: absolute;
+    width: 333px;
+    height: 48px;
+    left: 554px;
+    top: 485px;
+}
+
+.CreateNewMovie-one{
+    /* Create a new movie */
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 27.08%;
+    bottom: 27.08%;
+
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.emptyTree{
+    /* undraw_empty_street_sfxm 1 */
+    position: absolute;
+    width: 617px;
+    height: 279px;
+    left: 93px;
+    top: 622px;
+}

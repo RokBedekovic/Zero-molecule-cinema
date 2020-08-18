@@ -1,0 +1,42 @@
+.FormInput-one{
+    /* Form input */
+    position: absolute;
+    width: 334px;
+    height: 82px;
+    left: 59px;
+    top: 96px;
+}
+
+.FormPassword{
+    /* Password* */
+    position: absolute;
+    left: 0%;
+    right: 60.48%;
+    top: 0%;
+    bottom: 73.17%;
+
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+
+    color: #000000;
+}
+
+.Reactangle-7{
+    /* Rectangle 7 */
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 41.46%;
+    bottom: 0%;
+    width: 334px;
+
+    background: #FFFFFF;
+    border: 1px solid #BCBCBC;
+    box-sizing: border-box;
+    border-radius: 5px;
+
+    font-size: 20px;
+}

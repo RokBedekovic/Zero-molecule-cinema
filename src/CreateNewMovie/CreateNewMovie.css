@@ -1,0 +1,98 @@
+.CreateNewMovie{
+    /* Create new */
+    position: relative;
+    width: 1440px;
+    height: 900px;
+
+    background: #FFFFFF;
+}
+
+.CreateMovieTitle{
+    /* Create a new movie */
+    position: absolute;
+    width: 579px;
+    height: 58px;
+    left: 120px;
+    top: 120px;
+
+    /* Header 1 */
+    font-family: Merriweather;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 60px;
+
+    color: #000000;
+}
+
+.FormInput-one{
+    /* Form input */
+    position: absolute;
+    width: 334px;
+    height: 82px;
+    left: 120px;
+    top: 227px;
+}
+
+.FormInput-two{
+    /* Form input */
+    position: absolute;
+    width: 334px;
+    height: 82px;
+    left: 120px;
+    top: 345px;
+}
+
+.CoverImageTitle{
+    /* Cover image* */
+    position: absolute;
+    left: 8.33%;
+    right: 82.5%;
+    top: 51.56%;
+    bottom: 46%;
+
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+
+    color: #000000;
+}
+
+.Dropzone-one{
+    /* Dropzone */
+    position: absolute;
+    width: 329px;
+    height: 128px;
+    left: 120px;
+    top: 510px;
+}
+
+.CancelButton{
+    /* Button secondary */
+    position: absolute;
+    width: 132px;
+    height: 48px;
+    left: 120px;
+    top: 687px;
+}
+
+.CreateButton{
+    /* Button */
+    position: absolute;
+    width: 179px;
+    height: 48px;
+    left: 270px;
+    top: 687px;
+}
+
+.TreeRight{
+    /* undraw_Tree_swing_646s 1 */
+    position: absolute;
+    width: 565px;
+    height: 898px;
+    left: 866px;
+    top: 0px;
+
+}

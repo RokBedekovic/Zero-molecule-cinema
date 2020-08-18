@@ -1,0 +1,96 @@
+.Item1{
+    position: absolute;
+    width: 1201px;
+    height: 4000px;
+}
+
+.Group2{
+    position: absolute;
+    width: 64px;
+    height: 64px;
+}
+
+.year{
+    /* 2011 */
+    position: absolute;
+    width: 54px;
+    height: 23px;
+    left: 797px;
+
+    /* Body */
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+
+    /* or 122% */
+    text-align: center;
+    color: #000000;
+}
+
+.Delete{
+    /* Delete */
+    position: absolute;
+    width: 61px;
+    height: 23px;
+    left: 1188px;
+    top:35px;
+
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+
+    /* or 122% */
+    text-align: center;
+    text-decoration-line: underline;
+    color: #CF1313;
+}
+
+.Edit{
+    /* Edit */
+    position: absolute;
+    width: 46px;
+    height: 23px;
+    left: 1196px;
+
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+
+    /* or 122% */
+    text-align: center;
+    text-decoration-line: underline;
+    color: #000000;
+}
+
+.MovieTitle{
+    /* Some Swedish indie movie */
+    position: absolute;
+    width: 158px;
+    height: 43px;
+    left: 387px;
+
+    /* Body */
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+
+    /* or 122% */
+    text-align: center;
+    color: #000000;
+}
+
+.Line1{
+    position: absolute;
+    width: 1201px;
+    height: 0px;
+    left: 60px;
+    border: 1px solid #BCBCBC;
+}
